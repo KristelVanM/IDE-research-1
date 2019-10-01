@@ -8,7 +8,7 @@
   </head>
   <body>
     <header>
-      <H1>IDE Research</H1>
+      <h1>IDE Research</h1>
       <img
         src="https://itnext.io/settings-sync-with-vs-code-c3d4f126989"
         alt="vs logo"
