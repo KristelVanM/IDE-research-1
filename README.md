@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Document</title>
-  </head>
-  <body>
-    <header>
-      <H1>IDE Research</H1>
+# IDE Research
       <img
         src="https://itnext.io/settings-sync-with-vs-code-c3d4f126989"
         alt="vs logo"
@@ -17,9 +7,9 @@
       <a href="https://code.visualstudio.com/download">download link</a>
     </header>
     <main>
-      <h2>
-        Pro's & Con's
-      </h2>
+   ##
+Pro's & Con's
+     
       <table>
         <tr>
           <th>Three Positives</th>
