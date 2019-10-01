@@ -3,6 +3,11 @@
 •	A download link of the IDE
 https://code.visualstudio.com/download
 
+<ul>
+    <li>voordeel 1</li>
+    <li>voordeel 2</li>
+    <li>voordeel 3</li>
+  </ul>
 
 •	Three positives
 •	Three negatives
